@@ -108,7 +108,7 @@ const CriarTarefa = ({ handleClose, tarefas, setTarefas }) => {
                     setInicioTarefa(e.target.value);
                   }}
                   sx={{
-                    color: "#34a832",
+                    color: "#a84832",
                     fontWeight: 400,
                     paddingLeft: "13px",
                   }}
@@ -129,7 +129,7 @@ const CriarTarefa = ({ handleClose, tarefas, setTarefas }) => {
                     setFimTarefa(e.target.value);
                   }}
                   sx={{
-                    color: "#34a832",
+                    color: "#a84832",
                     fontWeight: 400,
                     paddingLeft: "13px",
                   }}
@@ -149,7 +149,7 @@ const CriarTarefa = ({ handleClose, tarefas, setTarefas }) => {
                   onChange={handleRecurso}
                   size="small"
                   sx={{
-                    color: "#34a832",
+                    color: "#a84832",
                     fontWeight: 400,
                   }}
                 >
@@ -169,7 +169,7 @@ const CriarTarefa = ({ handleClose, tarefas, setTarefas }) => {
                   onChange={handleStatus}
                   size="small"
                   sx={{
-                    color: "#34a832",
+                    color: "#a84832",
                     fontWeight: 400,
                   }}
                 >
